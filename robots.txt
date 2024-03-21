@@ -1,0 +1,24 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.bufan.xyz/superjp.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/gilajp.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/pakong86.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/viral88.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/clan4d.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/elang212.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/viral4d.html/sitemap.xml
+Sitemap: https://ftp.bufan.xyz/playground88.html/sitemap.xml
